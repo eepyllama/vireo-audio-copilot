@@ -1,0 +1,17 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS / IDE metadata
+.DS_Store
+.vscode/
+.idea/
+
+# Large archives (optional: keep raw zip ignored if unzipped files exist)
+*.zip
